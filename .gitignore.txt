@@ -1,0 +1,23 @@
+# Archivos de configuración
+config.properties
+src/config.properties
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de sistema
+.DS_Store
+*.log
+*.tmp
+
+# Base de datos
+*.db
+*.sqlite
